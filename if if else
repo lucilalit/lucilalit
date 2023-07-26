@@ -1,0 +1,28 @@
+const num = 43 ;
+const age = 90
+   if (num >= 40)
+   {                            
+    console.log("PASSSED")
+   }
+    if ( num >= 60)
+    {
+        console.log ("GOOD")
+    }
+    if (num >= 80)
+    {
+        console.log("excellant")
+    }
+    if (num >= 90)
+    {
+        console.log ('outstanding!')
+    }
+    if (age >= 18)
+    {
+        console.log('Eligible for voting')
+    }
+    else 
+    {
+        console.log("FAILED")
+    }
+
+
